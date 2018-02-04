@@ -23,31 +23,43 @@ background-image: url(img/RUBtitleimage-4x3.jpg)
 Forschungsdatenmanagement an der RUB 
 --------------------
 
+#### Arbeitsgemeinschaft "AG FDM" 
+* [IT.SERVICES](http://www.it-services.ruhr-uni-bochum.de/)   
+* [Universitätsbibliothek](http://www.ub.ruhr-uni-bochum.de/)  
+
+
+--
 #### Rektoratsprojekt  (Mai 2017-April 2019)
  **Ziel**:  
-> Etablierung eines zentral koordiniertem und nachhaltigem FDM 
+ Etablierung eines zentral koordiniertem und nachhaltigem FDM 
 
-####
-* Arbeitsgemeinschaft "AG FDM" 
-    * [IT.SERVICES](http://www.it-services.ruhr-uni-bochum.de/)   
-    * [Universitätsbibliothek](http://www.ub.ruhr-uni-bochum.de/)  
- 
+
+--
 * Sechs UseCases 
-
+* Kooperation und Austausch: 
+   UA Ruhr, DH-NRW, ...  
+ 
 
 ---
 Aktuelle Schwerpunkte der AG FDM  
 --------------------------------
 
+--
 #### Umfragen 
 * UseCase SFB1280 und Kooperationspartner bei UNEKE
 
+
+--
 #### Forschungsdatenspeicher 
 * Kooperation mit UA Ruhr, RWTH Aachen
 
+
+--
 #### Datenmanagementpläne (RDMO)
 * Kooperation innerhalb UA Ruhr
 
+
+--
 #### Beratung: Antragstellung, Speicherung (Beginnt schon bei "Heisse Daten") 
  
 ???
@@ -63,37 +75,54 @@ Bündelung von Werkzeugen und Ressourcen
 1. Forschungsdaten**speicher** (IT.SERVICES)
 1. Publikation (Universitätsbibliothek)   
 
+
+--
 #### Ziel: Eine Plattform für alle Beteiligte und deren Prozesse 
 * Standardisierung, Skalierbarkeit, Automatisierung, Schnittstellen 
- 
+
+
+--
 #### Research Data Management Organizer ([RDMO](https://rdmorganiser.github.io/))
+
 
 ---
 RDMO in der Erprobung
 ---------------------
 
-* Testinstanz von RDMO  
-* Fragenkatalog sehr umfangreich (WissGrid Leitfaden und FAIR Data H2020 ) 
-  * Hohe Einstiegsbarriere  
-* RDMO Hands-On Workshop Bochum 2017  
+#### Testinstanz von RDMO  
+* Fragenkatalog sehr umfangreich
+  * Hohe Einstiegsbarriere bei Nutzern  
+
+
+--
+#### RDMO Hands-On Workshop Bochum 2017  
   * Erstellung Fragenkatalog für Forscherteams
-   
-* Interesse an RDMO von weiteren Beteiligten  
-  * Mehrwert
+
+
+--
+#### Kooperation und Interesse
+  * FDM Teams (RDMO @ UA Ruhr), Usecase, DSB    
+
 ???
+ (WissGrid Leitfaden und FAIR Data H2020 ) 
   * UA Ruhr Instanz
   * Erarbeitung von Fragen
   * Teilen von Katalogen 
+  * Mehrwert
  ** nächste Folie 
 ---
 Erhöhung des Mehrwerts von RDMO 
 ----
 
+
+--
 #### Abbildung von Prozessen 
 * Massgeschneiderte Kataloge auf einer Domäne
 * Arbeitsteilung beim Befüllen der Projektdaten
 * Textuelle Ausgaben und Schnittstellen 
 
+
+--
 #### Wunschliste an RDMO 2. Projektphase  
 * Kataloge: Rollenabhängig
 * Projekte: Abbildung komplexerer Strukturen (Forscherverbünde, ...)   
