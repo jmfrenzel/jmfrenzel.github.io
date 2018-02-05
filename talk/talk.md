@@ -1,5 +1,8 @@
 class: left, top
 background-image: url(img/RUBtitleimage-4x3.jpg)
+.attribution[
+    Image credit: <a href="http://www.ruhr-uni-bochum.de/bilder">Ruhr-Universität Bochum</a>
+]
 
 <div class="container">
 .logo[
@@ -20,10 +23,10 @@ background-image: url(img/RUBtitleimage-4x3.jpg)
 ??? 
 
 ---
-Forschungsdatenmanagement an der RUB 
+[Forschungsdatenmanagement an der RUB](http://www.rub.de/researchdata)
 --------------------
 
-#### Arbeitsgemeinschaft "AG FDM" 
+#### [Arbeitsgemeinschaft "AG FDM"](http://www.rub.de/researchdata)
 * [IT.SERVICES](http://www.it-services.ruhr-uni-bochum.de/)   
 * [Universitätsbibliothek](http://www.ub.ruhr-uni-bochum.de/)  
 
@@ -142,13 +145,13 @@ Erhöhung des Mehrwerts von RDMO
 ---
 RDMO
 ----
-*live*
+[*live*](https://www.rdmo.rub.de)
 
 ---
 Anhang 
 ------------
 ---
-Projekt RDMO
+[Projekt RDMO](https://rdmorganizer.github.io)
 ------------
 
 <div class="partner">
