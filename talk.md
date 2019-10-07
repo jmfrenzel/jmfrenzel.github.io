@@ -2,7 +2,7 @@ class: center, bottom
 
 <style>
 .logo img {
-    width: 360px;
+    width: 260px;
     margin-bottom: 400px;
 }
 </style>
@@ -11,11 +11,11 @@ class: center, bottom
     ![RDMO](img/RDMO-logo.png)
 ]
 
-# AG DMP in NRW 
-## Anforderungen an RDMO aus Nutzersicht
+# [AG DMP in NRW](https://jmfrenzel.github.io)
+## [Anforderungen an RDMO aus Nutzersicht](https://jmfrenzel.github.io)
 
 ##### Johannes Frenzel  ([AG FDM](http://www.rub.de/researchdata) - [Ruhr-Universität Bochum](http://www.rub.de))
-
+[jmfrenzel.github.io](https://jmfrenzel.github.io)
 
 
 ---
